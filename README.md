@@ -9,8 +9,8 @@ UniRep is originally proposed by BarryWhiteHat in [this ethresear.ch post](https
 ## Download and Install
 
 ```
-git clone https://github.com/appliedzkp/UniRep.git && \
-cd UniRep/ && \
+git clone https://github.com/Unirep/Unirep.git && \
+cd Unirep/ && \
 yarn install
 ```
 
@@ -25,6 +25,5 @@ to build the circuits
 ## Testing
 
 ```
-yarn test && \
-yarn test-cli
+yarn test
 ```
